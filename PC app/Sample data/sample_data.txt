@@ -1,0 +1,25 @@
+; This is comment <--- start with ";" = comment line
+; Thi do vui nganh Nganh Thieu nhi
+;
+
+#1, La Vang, Ngoc Nguyen, Thanh Phuong
+#2, Fatima, Duc Tam, Mai Hoang
+#3, Giuse Canh, Robin Vu, Jesica Luu
+#4, Giuse Tuan, Gabby Tran, Joan Pham
+#5, Hien Linh, Phuong Ng, Simeon Ng
+#6, Kito Vua, Helena Cao, Anna Tran
+#7, Micae My, Peter Ng, Michael Ng
+#8, Simon Hoa, Paul Nguyen, Joseph Ng
+
+; 
+; Reward point / score point...
+; round no, team no, point
+0, 40, ++++++++
+1, 10, 
+2, 10,
+3, 20,
+4, 10,
+5, 10,
+6, 20,
+7, 50,
+8, 20,
