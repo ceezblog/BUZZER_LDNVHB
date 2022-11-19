@@ -1,4 +1,4 @@
-LED PANEL CONTROLLER Appfor BUZZER LD NVHB
+LED PANEL CONTROLLER App for BUZZER LD NVHB
 
 Visual Studio 2022 project:
 - Require Visual Studio 2022 Community Edition
