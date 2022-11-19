@@ -5,6 +5,10 @@ In this repo:
 - Firmware for ESP32 to drive 64x32 RGB LED panel
 - Windows PC app to send data, in real-time, to all LED panels
 
+NOT in this repo:
+- PCB/code for Red button (Atmega328)
+- PCB/code for host box (Atmega328)
+
 LD NVHB buzzer set:
 - 20x Red buttons
 - 9x LED panels
@@ -19,6 +23,19 @@ This buzzer set comprises by 2 systems
 - Buzzer system: Red buttons, a host box, small 12V adapter
 - Display system: LED panels, wifi accesspoint, computer running PC app 
 
-![buzzer system](./Doc/buzzer system_1.png)
+-----------------------------
 
-![display system](./Doc/display system_1.png)
+![buzzer system](https://github.com/ceezblog/BUZZER_LDNVHB/blob/master/Doc/buzzer%20system_1.png)
+
+-----------------------------
+
+![display system](https://github.com/ceezblog/BUZZER_LDNVHB/blob/master/Doc/display%20system_1.png)
+
+-----------------------------
+
+Connect 2x Red buttons to 1x LED panel
+
+![two button and one panel](https://github.com/ceezblog/BUZZER_LDNVHB/blob/master/Doc/2button_1panel.png)
+
+
+
