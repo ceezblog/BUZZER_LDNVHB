@@ -21,7 +21,7 @@ LD NVHB buzzer set:
 
 This buzzer set comprises by 2 systems
 - Buzzer system: Red buttons, a host box, small 12V adapter
-- Display system: LED panels, wifi accesspoint, computer running PC app 
+- Display system: LED panels, wifi accesspoint, big 12V PSU with 12 outputs, computer running PC app 
 
 -----------------------------
 
