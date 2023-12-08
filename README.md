@@ -14,7 +14,7 @@ LD NVHB buzzer set:
 - 9x LED panels
 - 2x host boxes
 - 1x Power supply 12V20A, using a toolbox as the enclosure
-- 1x Wifi accesspoint, repurposed from an old Telstra modem
+- 1x Wifi accesspoint (pw: 12344321), repurposed from an old Telstra modem
 - 10x DC cables
 - 19x 3.5mm cable
 - 3x 12V2A wall adapter
